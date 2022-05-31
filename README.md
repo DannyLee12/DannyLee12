@@ -3,6 +3,8 @@
 
 [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/4025874)]([https://stackoverflow.com/users/14122375/hamiltonpharmd](https://stackoverflow.com/users/4025874/daniel-lee))
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dannylee12&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **DannyLee12/DannyLee12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
